@@ -44,7 +44,7 @@ For a full step-by-step build guide—including wiring diagrams, photos, and adv
 - ESP32Coding.ino        main sketch (setup & loop)
 - ovapi.{h,cpp}          JSON fetch + parse helpers
 - timing.{h,cpp}         NTP setup & ISO‑8601 utils
-- display.{h,cpp}        LCD rendering + Wi‑Fi glyphs
+- display.{h,cpp}        LCD rendering + Wi‑Fi symbols
 - LICENSE
 - README.md
 
